@@ -72,8 +72,8 @@ ___
 [링크1][1] [1]: http://example1.com/ "링크제목1" 참조 링크
 <example.com/> <example@example.com> url 링크
 
-인라인 링크
-[Google](http://www.google.co.kr “구글”)
+### 인라인 링크
+(http://www.google.co.kr “구글”)
 
 
 
