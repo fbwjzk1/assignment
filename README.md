@@ -75,6 +75,10 @@ ___
 ### 인라인 링크
 [Google](http://www.google.co.kr “구글”)
 
+[Google][1]
+[Naver][2]
+[1]: http://google.com/ “구글”
+[2]: http://naver.com/ “네이버”
 
 
 
