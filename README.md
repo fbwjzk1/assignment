@@ -73,7 +73,7 @@ ___
 <example.com/> <example@example.com> url 링크
 
 ### 인라인 링크
-(http://www.google.co.kr “구글”)
+[Google](http://www.google.co.kr “구글”)
 
 
 
