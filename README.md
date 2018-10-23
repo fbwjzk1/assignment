@@ -16,13 +16,13 @@ h1
 h2
 ---
 
-인용 Blockquotes
+## 인용 Blockquotes
 >으로 시작하는 텍스트
 
 > 인용문
 >> 인용문안의 인용문
 
-코드 블럭 Code Blocks
+## 코드 블럭 Code Blocks
 ``` 혹은 ~~~ 코드 첫 줄과 마지막 줄에 Back quote ( ` ) 또는 물결( ~ ) 3개 삽입
 
 ```
@@ -43,12 +43,12 @@ void f()
 }
 ```
 
-인라인 코드 Inline Code Blocks
+## 인라인 코드 Inline Code Blocks
 `(Back quote)로 감싸진 텍스트
 
-`인라인 코드 블럭`
+ `인라인 코드 블럭`
 
-강조 Emphasis
+## 강조 Emphasis
 기울여 쓰기(italic) : * 또는 _로 감싼 텍스트
 굴게쓰기(bold) : ** 또는 __로 감싼 텍스트
 
