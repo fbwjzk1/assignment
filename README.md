@@ -66,6 +66,14 @@ __굵게쓰기(bold)__
 ***
 ___
 
+## 링크 Links
+### 외부 링크 External Links
+[링크](http://example.com "링크 제목") 인라인 링크
+[링크1][1] [1]: http://example1.com/ "링크제목1" 참조 링크
+<example.com/> <example@example.com> url 링크
+
+인라인 링크
+[Google](http://www.google.co.kr “구글”)
 
 
 
